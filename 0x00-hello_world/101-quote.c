@@ -2,13 +2,11 @@
 #include <unistd.h>
 
 /**
+ * main - print quote
  *
- * main - Entry point
- *
- * Description: prints Dora's quote with printf or puts
+ * Description: prints Dora's quote
  *
  * Return: Always 1 (Success)
- *
  */
 
 int main(void)
