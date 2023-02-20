@@ -12,7 +12,7 @@ int main(void)
 {
 	int alphanum = 48;
 
-	while (alphanum < 102)
+	while (alphanum < 103)
 	{
 		putchar(alphanum);
 		if (alphanum == 57)
