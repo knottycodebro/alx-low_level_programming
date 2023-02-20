@@ -15,7 +15,7 @@ int main(void)
 	while (alphanum < 102)
 	{
 		putchar(alphanum);
-		if (alphanum == 58)
+		if (alphanum == 57)
 		{
 			alphanum += 39;
 		}
