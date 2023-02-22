@@ -11,11 +11,12 @@
 void print_alphabet_x10(void)
 {
 	int times = 10, i;
-	char alpha = 'a';
+	char alpha;
 
 	/*I'm using for loop together with while loop for this task😃😉*/
 	for (i = 0; i < times; i++)
 	{
+		alpha = 'a';
 		while (alpha <= 'z')
 		{
 			_putchar(alpha);
